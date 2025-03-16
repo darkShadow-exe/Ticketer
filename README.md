@@ -1,5 +1,6 @@
 # Design Document
-By Krish Kumar
+By Krish Kumar (Made for CS50 SQL's final project)
+
 [Video Overview](https://youtu.be/B-2aap91ZIE)
 
 # Scope
